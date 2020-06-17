@@ -1,5 +1,5 @@
-Introduction au framework NUXT.JS
-=================================
+Présentation du cours
+=====================
 
 Ce document fait partie d’une série de quatre articles :
 
@@ -151,7 +151,7 @@ faut à la fois lire son code, ses commentaires et ses résultats
 d'exécution.
 
 Les exemples du document sont disponibles
-\|\ `ici <https://tahe.developpez.com/tutoriels-cours/nuxtjs/documents/nuxtjs.rar>`__\ **\ \|**.
+\|\ `ici <http://sergetahe.com/cours-tutoriels-de-programmation/wp-content/uploads/documents/php7-ecmascript6-vuejs-nuxtjs/nuxtjs.rar>`__\ **\ \|**.
 
 L’application serveur PHP 7 peut être testée
 \|\ `ici <https://sergetahe.com/apps/impot/serveur-php7/>`__\ **\ \|**.

@@ -6,7 +6,6 @@
 .. meta::
    :description lang=fr: Introduction à NUXT.JS par l'exemple : routage et navigation, nuxtServerInit, session, store, middlewares, plugins, axios
    :google-site-verification: rEk3Ag5TVRTZ85C2Wwg6iYpLz8UWMgd07V6mLkq6ee4
-   <meta name="google-site-verification" content="rEk3Ag5TVRTZ85C2Wwg6iYpLz8UWMgd07V6mLkq6ee4" />
 
 Introduction au framework NUXT.JS par l'exemple
 ===============================================
@@ -24,9 +23,9 @@ Licence
 Téléchargements
 ---------------
 
-\ `Téléchargement du PDF du cours <https://tahe.developpez.com/tutoriels-cours/nuxtjs/documents/nuxtjs.pdf>`_\
+\ `Téléchargement du PDF du cours <http://sergetahe.com/cours-tutoriels-de-programmation/wp-content/uploads/documents/php7-ecmascript6-vuejs-nuxtjs/nuxtjs.pdf>`_\
 
-\ `Téléchargement des exemples du cours (rar) <https://tahe.developpez.com/tutoriels-cours/nuxtjs/documents/nuxtjs.rar>`_\
+\ `Téléchargement des exemples du cours (rar) <http://sergetahe.com/cours-tutoriels-de-programmation/wp-content/uploads/documents/php7-ecmascript6-vuejs-nuxtjs/nuxtjs.rar>`_\
 
 
 .. toctree::
